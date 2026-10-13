@@ -1,0 +1,6 @@
+{
+  "name": "Karthik Fresh Fruits",
+  "description": "Farm-fresh fruits, organic baskets, and exotic produce delivered straight to your door with AI-powered smoothie & recipe recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
