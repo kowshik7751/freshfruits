@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
   // Google Search Console Verification
   verification: {
-    google: 'OeVXx3UvN7UAqSRqjHYFUDpgNI1VtK35qkZnbhTgXCY',
+    google:' OeVXx3UvN7UAqSRqjHYFUDpgNI1VtK35qkZnbhTgXCY' />
   },
 
   openGraph: {
