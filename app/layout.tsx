@@ -4,7 +4,9 @@ import './globals.css'; // Global styles
 export const metadata: Metadata = {
   title: 'Karthik Fresh Fruits | Farm-Fresh Produce & Organic Baskets',
   description: 'Farm-fresh fruits, organic baskets, and exotic produce delivered straight to your door with AI-powered smoothie & recipe recommendations.',
-  openGraph: {
+  
+  <meta name="google-site-verification" content="OeVXx3UvN7UAqSRqjHYFUDpgNI1VtK35qkZnbhTgXCY" />
+    openGraph: {
     title: 'Karthik Fresh Fruits | Farm-Fresh Produce & Organic Baskets',
     description: 'Farm-fresh fruits, organic baskets, and exotic produce delivered straight to your door with AI-powered smoothie & recipe recommendations.',
     type: 'website',
